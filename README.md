@@ -20,7 +20,7 @@ Type '{ wrapper: Component<Props, {}, "wrapper">; }' is not assignable to type '
 
 1. Clone the repo: `git clone https://github.com/CPritch/svelte-color-picker-typing-issue`
 2. Install packages using pnpm `pnpm i`
-3. Ovbserve the error at `/site/src/routes/+page.svelte`
+3. Observe the error at `/site/src/routes/+page.svelte`
 
 ## Cause of Issue
 
